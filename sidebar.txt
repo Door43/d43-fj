@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fj:home|Door43 (fj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fj|d43-fj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fj/archive/master.zip|d43-fj.zip]]
+
+**Recent Changes**
+{{changes>ns = fj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fj|Ethnologue data]]
+
